@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Java, Python, C++, C#, HTML, CSS, Javascript, Kotlin, Swift, etc.
 - 💞️ I’m looking to collaborate on any project that I can wrap my head around!
 - 📫 You can reach me by my discord Micahthebomb#5647!
+- 💩 I am stupid
